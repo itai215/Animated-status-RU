@@ -67,13 +67,13 @@ def
 ### Examples
 Некоторые скриншоты ускорены, поэтому ReadMe выглядит более привлекательно.
 
-#### Clock
+#### Часы
 - **Result:** \
   <img src="Screenshots/JS_Clock.gif">
 - **Emoji-Field:** \
   <code> eval ['🕛','🕐','🕑','🕒','🕓','🕔','🕕','🕖','🕗','🕘','🕙','🕚'][((new Date()).getHours()%12)]; </code>
 
-#### Clock And Text
+#### Часы и с текстом
 - **Result:** \
   <img src="Screenshots/JS_ClockText.png">
 - **Emoji-Field:** \
